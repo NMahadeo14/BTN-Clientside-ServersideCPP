@@ -1,0 +1,5 @@
+﻿  main.cpp
+  socket.cpp
+C:\Users\devin\source\repos\BTNLab5\BTNLab5\socket.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  BTNLab5.vcxproj -> C:\Users\devin\source\repos\BTNLab5\Debug\BTNLab5.exe
