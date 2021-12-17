@@ -1,0 +1,3 @@
+﻿  server.cpp
+C:\Users\devin\source\repos\BTNLab3_server\BTNLab3_server\server.cpp(9,43): warning C4838: conversion from 'int' to 'SOCKET' requires a narrowing conversion
+  BTNLab3_server.vcxproj -> C:\Users\devin\source\repos\BTNLab3_server\Debug\BTNLab3_server.exe
