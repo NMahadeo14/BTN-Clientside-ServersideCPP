@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BTNLab0", "BTNLab0\BTNLab0.vcxproj", "{52F664A9-3853-4D6D-9961-BBBAAD9B9200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F664A9-3853-4D6D-9961-BBBAAD9B9200}.Debug|x64.ActiveCfg = Debug|x64
+		{52F664A9-3853-4D6D-9961-BBBAAD9B9200}.Debug|x64.Build.0 = Debug|x64
+		{52F664A9-3853-4D6D-9961-BBBAAD9B9200}.Debug|x86.ActiveCfg = Debug|Win32
+		{52F664A9-3853-4D6D-9961-BBBAAD9B9200}.Debug|x86.Build.0 = Debug|Win32
+		{52F664A9-3853-4D6D-9961-BBBAAD9B9200}.Release|x64.ActiveCfg = Release|x64
+		{52F664A9-3853-4D6D-9961-BBBAAD9B9200}.Release|x64.Build.0 = Release|x64
+		{52F664A9-3853-4D6D-9961-BBBAAD9B9200}.Release|x86.ActiveCfg = Release|Win32
+		{52F664A9-3853-4D6D-9961-BBBAAD9B9200}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27358165-7D6D-42B9-BF5A-A3EB0059BBE2}
+	EndGlobalSection
+EndGlobal
